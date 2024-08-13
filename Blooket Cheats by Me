@@ -2998,7 +2998,7 @@ Javascript:/**
         img.onerror = img.onabort = null;
         cheat();
         let iframe = document.querySelector("iframe");
-        iframe.contentWindow.alert("Elijah, you have accessed your blooket cheats.\n Please press Ok to run cheats. \n Designed by Elijah.\n Have fun! 🙂")
+        iframe.contentWindow.alert("You have accessed Eliarts blooket cheats.\n Please press Ok to run cheats. \n Designed by Eliarts.\n Have fun! 🙂")
     }
 })();
 
